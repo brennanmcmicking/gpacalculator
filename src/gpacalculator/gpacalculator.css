@@ -1,0 +1,24 @@
+.calculator {
+  background-color: lightseagreen;
+  font-family: monospace;
+  max-width: 13rem;
+  margin: 10px;
+  border: solid black;
+  border-radius: 5px;
+  border-width: 2px;
+  padding: 5px;
+}
+
+button {
+  border-radius: 100px;
+  border-width: 1px;
+  font-family: monospace;
+}
+
+input {
+  font-family: monospace;
+  background-color: lightcyan;
+  margin: 3px;
+  max-width: 2rem;
+  text-align: center;
+}

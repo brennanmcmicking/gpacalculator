@@ -1,7 +1,7 @@
 import React from "react";
 
 import "./App.css";
-import GPACalculator from "./components/gpacalculator.js";
+import GPACalculator from "./gpacalculator/gpacalculator.js";
 
 function App() {
   return (
