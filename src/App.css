@@ -1,15 +1,11 @@
 .App {
   text-align: center;
+  font-family: monospace;
 }
 
-.Calculator {
+.calculator {
   border-radius: 5px;
   border-width: 3px;
-  border-color: black;
-}
-
-.class {
-  border-width: 6px;
   border-color: black;
 }
 
@@ -19,8 +15,7 @@ button {
   font-family: monospace;
 }
 
-.result {
-  border-radius: 5px;
-  border-width: 3px;
-  border-color: black;
+input {
+  font-family: monospace;
+  background-color: lightcyan;
 }
