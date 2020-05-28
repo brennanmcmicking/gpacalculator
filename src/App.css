@@ -4,9 +4,11 @@
 }
 
 .calculator {
+  background-color: lightseagreen;
+  width: 25%;
+  margin: 10px;
   border-radius: 5px;
-  border-width: 3px;
-  border-color: black;
+  padding: 5px;
 }
 
 button {
@@ -18,4 +20,5 @@ button {
 input {
   font-family: monospace;
   background-color: lightcyan;
+  margin: 3px;
 }
