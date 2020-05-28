@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.Calculator {
+  border-radius: 5px;
+  border-width: 3px;
+  border-color: black;
+}
+
+.class {
+  border-width: 6px;
+  border-color: black;
+}
+
+button {
+  border-radius: 100px;
+  border-width: 1px;
+  font-family: monospace;
+}
+
+.result {
+  border-radius: 5px;
+  border-width: 3px;
+  border-color: black;
+}
